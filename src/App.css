@@ -1,0 +1,23 @@
+.backOne {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+margin: 50px;
+padding: 25px ;
+border-radius: 20px;
+width: 1200px;
+}
+
+.backgroundColor {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+  border-radius: 20px;
+}
+
+.backgroundColorExtreme {
+  background-color: rgb(189, 189, 189);
+  display: flex;
+}
